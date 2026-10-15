@@ -4,5 +4,5 @@ Right arrow key : move right \
 Space : Thrust \
 A : Rotate left \
 D : Rotate Right \
-(Screenshot/level1.png)\
-(Screenshot/level2.png)\
+![](Screenshot/level1.png)\
+![](Screenshot/level2.png)\
